@@ -4,7 +4,7 @@
 #
 Name     : mvn-wsdl4j
 Version  : 1.6.3
-Release  : 1
+Release  : 2
 URL      : https://downloads.sourceforge.net/project/wsdl4j/WSDL4J/1.6.3/wsdl4j-src-1.6.3.zip
 Source0  : https://downloads.sourceforge.net/project/wsdl4j/WSDL4J/1.6.3/wsdl4j-src-1.6.3.zip
 Source1  : https://repo.maven.apache.org/maven2/wsdl4j/wsdl4j/1.6.3/wsdl4j-1.6.3.jar
